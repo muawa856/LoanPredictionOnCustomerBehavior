@@ -1,5 +1,5 @@
 
-# Loan Prediction on Customer Behavior  (Binary Classification)
+# Loan Prediction Based Customer Behavior  (Binary Classification)
 
 # Introduction: 
 Accurately predicting customer behavior in loan applications is crucial for financial institutions. Loan prediction models use advanced analytics and machine learning to assess creditworthiness and repayment likelihood. These models streamline loan approvals, minimize risks. By analyzing demographics, financial history, employment status, and House_Ownership, Car_Ownership and Current job and house years,  models provide valuable insights. Accurate loan prediction enables effective resource allocation, reduces defaults, and maintains a healthy loan portfolio. This project aims to develop a robust loan prediction model using advanced analytics and machine learning techniques, empowering informed lending decisions and minimizing financial risks.
